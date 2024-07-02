@@ -1,2 +1,1 @@
-# cardano-devOps
-# cardano-devOps
+# cardano-shell-scripts
